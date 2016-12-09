@@ -1,11 +1,8 @@
-# PLUGIN_NAME: Plugin API Docs
+# BRIGHTNESS: Plugin API Docs
 
 |                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
-| __Type__             | [TYPE](http://docs.coronalabs.com/api/type/Library.html)
-| __Corona Store__     | [PLUGIN_NAME](http://store.coronalabs.com/plugin/Brightness)
-| __Keywords__         | 
-| __See also__         | 
+| __Corona Store__     | [Brightness](http://store.coronalabs.com/plugin/Brightness)
 
 ## Overview
 
@@ -14,7 +11,7 @@ The Brightness plugin can be used in your [Corona](https://coronalabs.com/produc
 
 ## Syntax
 
-	local PLUGIN_NAME = require "plugin.brightness"
+	local brightness = require "plugin.brightness"
 
 ### Functions
 
